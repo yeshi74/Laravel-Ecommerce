@@ -1,4 +1,4 @@
-This is Laravel 8 ecommerce project. 
+This is Laravel 8 Ecommerce project. 
 
 Below are the features in this project:
 1. User registration and login.
